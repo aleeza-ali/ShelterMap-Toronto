@@ -6,7 +6,7 @@ ShelterMap Toronto is a full stack web app built during a 24 hour datathon to he
 YouTube demo: https://www.youtube.com/watch?v=xvR5SX63CX0
 
 ## Repo structure
-- `homeless-map/` Frontend map app (interactive map UI)
+- `frontend/` Frontend map app (interactive map UI)
 - `backend/` Data processing and backend logic (cleaning, joining, serving data)
 
 ## What it does
